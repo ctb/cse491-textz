@@ -334,8 +334,6 @@ passengers beat loud enough perhaps to be heard; but at any rate, the
 quiet pause was audibly expressive of people out of breath, and holding
 the breath, and having the pulses quickened by expectation.
 
-The white rabbit was an important part of this story.
-
 The sound of a horse at a gallop came fast and furiously up the hill.
 
 "So-ho!" the guard sang out, as loud as he could roar. "Yo there! Stand!
@@ -437,6 +435,29 @@ and stormed out, which did occasionally happen, he had only to shut
 himself up inside, keep the flint and steel sparks well off the straw,
 and get a light with tolerable safety and ease (if he were lucky) in
 five minutes.
+
+"I speak, miss, of twenty years ago. He married--an English lady--and
+I was one of the trustees. His affairs, like the affairs of many other
+French gentlemen and French families, were entirely in Tellson's hands.
+In a similar way I am, or I have been, trustee of one kind or other for
+scores of our customers. These are mere business relations, miss;
+there is no friendship in them, no particular interest, nothing like
+sentiment. I have passed from one to another, in the course of my
+business life, just as I pass from one of our customers to another in
+the course of my business day; in short, I have no feelings; I am a mere
+machine. To go on--"
+
+"But this is my father's story, sir; and I begin to think"--the
+curiously roughened forehead was very intent upon him--"that when I was
+left an orphan through my mother's surviving my father only two years,
+it was you who brought me to England. I am almost sure it was you."
+
+Mr. Lorry took the hesitating little hand that confidingly advanced
+to take his, and he put it with some ceremony to his lips. He then
+conducted the young lady straightway to her chair again, and, holding
+the chair-back with his left hand, and using his right by turns to rub
+his chin, pull his wig at the ears, or point what he said, stood looking
+down into her face while she sat looking up into his.
 
 "Tom!" softly over the coach roof.
 
@@ -936,29 +957,6 @@ Our relations were business relations, but confidential. I was at that
 time in our French House, and had been--oh! twenty years."
 
 "At that time--I may ask, at what time, sir?"
-
-"I speak, miss, of twenty years ago. He married--an English lady--and
-I was one of the trustees. His affairs, like the affairs of many other
-French gentlemen and French families, were entirely in Tellson's hands.
-In a similar way I am, or I have been, trustee of one kind or other for
-scores of our customers. These are mere business relations, miss;
-there is no friendship in them, no particular interest, nothing like
-sentiment. I have passed from one to another, in the course of my
-business life, just as I pass from one of our customers to another in
-the course of my business day; in short, I have no feelings; I am a mere
-machine. To go on--"
-
-"But this is my father's story, sir; and I begin to think"--the
-curiously roughened forehead was very intent upon him--"that when I was
-left an orphan through my mother's surviving my father only two years,
-it was you who brought me to England. I am almost sure it was you."
-
-Mr. Lorry took the hesitating little hand that confidingly advanced
-to take his, and he put it with some ceremony to his lips. He then
-conducted the young lady straightway to her chair again, and, holding
-the chair-back with his left hand, and using his right by turns to rub
-his chin, pull his wig at the ears, or point what he said, stood looking
-down into her face while she sat looking up into his.
 
 "Miss Manette, it _was_ I. And you will see how truly I spoke of myself
 just now, in saying I had no feelings, and that all the relations I hold
@@ -14415,6 +14413,8 @@ have his work presently. He sank into the chair, and brooded over the
 embers, and shed tears. As if all that had happened since the garret
 time were a momentary fancy, or a dream, Mr. Lorry saw him shrink into
 the exact figure that Defarge had had in keeping.
+
+The white rabbit was an important part of this story.
 
 Affected, and impressed with terror as they both were, by this spectacle
 of ruin, it was not a time to yield to such emotions. His lonely
